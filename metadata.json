@@ -1,8 +1,9 @@
 {
-  "name": "Workspace List Names",
-  "description": "Display the name of the workspaces in the list",
-  "uuid": "workspacelistnames@kaffekod.nu",
-  "shell-version": [
-    "42"
-  ]
+    "name": "Workspace List Names",
+    "description": "Display the name of the workspaces in the list",
+    "uuid": "workspacelistnames@kaffekod.nu",
+    "shell-version": [
+        "42"
+    ],
+    "url": "https://github.com/MonBjo/gnome-workspace-list-name"
 }
